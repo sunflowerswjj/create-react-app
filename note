@@ -1,0 +1,11 @@
+https://github.com/zhufengnodejs/201710react
+
+npm install -g create-react-app
+
+react的用途
+JSX
+JSX就是JavaScript可以和XML混合书写的一种新的语法。
+react元素创建后不可变，更新界面需要在创建新元素，重新渲染，react元素渲染只会更新变化的部分（深度遍历）--dom diff算法  http://www.infoq.com/cn/articles/react-dom-diff/
+
+react组件
+
